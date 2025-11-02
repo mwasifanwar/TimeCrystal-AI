@@ -13,6 +13,9 @@
 <h2>Overview</h2>
 <p>Traditional time series forecasting methods struggle with complex patterns, multiple seasonalities, and reliable uncertainty estimation. TimeCrystal AI addresses these fundamental challenges by implementing cutting-edge transformer architectures specifically designed for temporal data, coupled with sophisticated uncertainty quantification techniques that provide actionable probabilistic forecasts. The platform democratizes advanced time series analysis by making transformer-based deep learning accessible to practitioners of all skill levels while maintaining the flexibility demanded by expert forecasters and data scientists.</p>
 
+<img width="589" height="338" alt="image" src="https://github.com/user-attachments/assets/e85836bb-6a4a-4042-af86-89d953bfb21d" />
+
+
 <p><strong>Strategic Innovation:</strong> TimeCrystal AI integrates multiple state-of-the-art time series transformer variants—including Informer, Autoformer, and Pyraformer—with advanced uncertainty quantification methods like Monte Carlo dropout, conformal prediction, and Bayesian neural networks. The system's core innovation lies in its ability to handle complex temporal patterns while providing reliable confidence intervals, enabling organizations to make data-driven decisions with quantified risk.</p>
 
 <h2>System Architecture</h2>
@@ -41,6 +44,9 @@
     ↓
 [Deployment Generator] → API Generation → Containerization → Cloud Deployment → Monitoring Integration
 </code></pre>
+
+<img width="549" height="704" alt="image" src="https://github.com/user-attachments/assets/a2cae662-c882-46dc-a9e7-bd235db053af" />
+
 
 <p><strong>Advanced Forecasting Pipeline Architecture:</strong> The system employs a modular, extensible architecture where each processing stage can be independently optimized and scaled. The transformer engine implements multiple attention mechanisms optimized for temporal data, while the uncertainty quantifier provides probabilistic forecasts with calibrated confidence intervals. The visualization engine generates interactive dashboards for model diagnostics, and the deployment generator produces production-ready artifacts for various platforms.</p>
 
@@ -92,6 +98,8 @@
   <li><strong>Anomaly Detection Capabilities:</strong> Integrated outlier and change point detection with statistical significance testing</li>
   <li><strong>Scalable Training Infrastructure:</strong> Distributed training support, model checkpointing, and experiment tracking for large-scale time series datasets</li>
 </ul>
+
+<img width="484" height="461" alt="image" src="https://github.com/user-attachments/assets/dd6adaab-a65e-4229-a74e-560eb7556512" />
 
 <h2>Installation</h2>
 <p><strong>System Requirements:</strong></p>
